@@ -1,2 +1,4 @@
 node_modules
 .next/cache/webpack/client-development
+yarn.lock
+package-lock.json
